@@ -1,0 +1,17 @@
+.title KiCad schematic
+U2 Net-_R2-Pad1_ Net-_R4-Pad1_ Net-_U1-Pad3_ GND GND Net-_R4-Pad2_ GND Net-_R2-Pad2_ INA128
+R2 Net-_R2-Pad1_ Net-_R2-Pad2_ 5k
+R4 Net-_R4-Pad1_ Net-_R4-Pad2_ 25k
+R5 Net-_R4-Pad1_ Net-_R3-Pad2_ eSim_R
+R3 Net-_R3-Pad1_ Net-_R3-Pad2_ 25k
+U1 Net-_R1-Pad1_ Net-_R3-Pad2_ Net-_U1-Pad3_ GND GND Net-_R3-Pad1_ GND Net-_R1-Pad2_ INA128
+R1 Net-_R1-Pad1_ Net-_R1-Pad2_ 5k
+R10 Net-_R10-Pad1_ Net-_R10-Pad2_ 49k
+dc2 GND Net-_R10-Pad1_ DC
+R7 Net-_R4-Pad2_ Net-_R10-Pad2_ 49k
+R6 Net-_R3-Pad1_ Net-_R6-Pad2_ 49k
+R9 Net-_R9-Pad1_ Net-_R9-Pad2_ 5k
+U3 Net-_R9-Pad2_ Net-_R10-Pad2_ Net-_R6-Pad2_ GND GND output GND Net-_R9-Pad1_ INA128
+R8 Net-_R6-Pad2_ output 49k
+v1 Net-_U1-Pad3_ VCC DC
+.end
