@@ -10,6 +10,8 @@ Instrumentation amplifiers are high-precision differential amplifiers widely use
 
 ![block diagram](https://github.com/user-attachments/assets/9852a175-4bf6-455f-8d56-fb33a53e75af)
 
+# Result
+
 # Instrumentation Ampifier Performance Parameters
 
 ![parameters](https://github.com/user-attachments/assets/dce01d5f-e8df-4efb-9030-0654e1f90db5)
